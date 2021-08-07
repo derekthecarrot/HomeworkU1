@@ -2,6 +2,7 @@
 
 ## Description
 I built this project in order to improve and further my skills with HTML and CSS Accessibility standards and Search Engine Optimization.
+It was originally semantically incorrect and had some code that could be improved on. I learned about the proper HTML structure and was able to also consolidate some attributes on the CSS Stylesheet. Some challenges I ran into is learning when or why a div should be used versus any other element. For example: I changed a DIV element to a NAV due to the section containing Navigation links.
 
 
 Table of Contents
@@ -23,11 +24,11 @@ User will need to install and use within a web browser (EX: Google Chrome, Safar
 In order to use and open this project, please visit https://derekthecarrot.github.io/HomeworkU1/ within any web browser.
 
 ```md
-![Horiseon SEO](assets/images/screenshot.png)
+![Horiseon SEO](assets/images/screenshot.PNG)
 ```
 ## Credits
 
-I collaborated with Daniel Petes () in order to code more semantically correct HTML.
+I collaborated with Daniel Peterman (https://github.com/DanielPeterman) in order to code more semantically correct HTML.
 I also used W3Schools for the same reason. Tutorial: (https://www.w3schools.com/html/html_layout.asp)
 
 ## License
