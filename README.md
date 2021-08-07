@@ -23,9 +23,8 @@ User will need to install and use within a web browser (EX: Google Chrome, Safar
 
 In order to use and open this project, please visit https://derekthecarrot.github.io/HomeworkU1/ within any web browser.
 
-```md
 ![Horiseon SEO](https://derekthecarrot.github.io/HomeworkU1/assets/images/screenshot.PNG)
-```
+
 ## Credits
 
 I collaborated with Daniel Peterman (https://github.com/DanielPeterman) in order to code more semantically correct HTML.
