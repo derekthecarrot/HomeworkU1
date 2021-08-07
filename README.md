@@ -24,7 +24,7 @@ User will need to install and use within a web browser (EX: Google Chrome, Safar
 In order to use and open this project, please visit https://derekthecarrot.github.io/HomeworkU1/ within any web browser.
 
 ```md
-![Horiseon SEO](assets/images/screenshot.PNG)
+![Horiseon SEO](https://derekthecarrot.github.io/HomeworkU1/assets/images/screenshot.PNG)
 ```
 ## Credits
 
